@@ -1,0 +1,2 @@
+# polarnoblesuites
+Static site: polarnoblesuites
